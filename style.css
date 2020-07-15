@@ -55,22 +55,7 @@ h2 {
 
 @media only screen and (max-width: 600px) {
     h1 {
-        font-size: 100px;
-    }
-
-    h2 {
-        margin-top: -30px;
-        font-size: 35px;
-    }
-
-    #cd {
-        font-size: 50px;
-    }
-}
-
-@media only screen and (max-width: 400px) {
-    h1 {
-        font-size: 70px;
+        font-size: 80px;
     }
 
     h2 {
