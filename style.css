@@ -68,6 +68,21 @@ h2 {
     }
 }
 
+@media only screen and (max-width: 400px) {
+    h1 {
+        font-size: 70px;
+    }
+
+    h2 {
+        margin-top: -30px;
+        font-size: 25px;
+    }
+
+    #cd {
+        font-size: 40px;
+    }
+}
+
 ::selection {
     background-color: white;
     color: #4a5775;
@@ -120,7 +135,6 @@ h2 {
 }
 
 @media only screen and (max-height: 400px) {
-
     #social,
     #copyright {
         display: none;
